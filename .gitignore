@@ -1,8 +1,15 @@
+# Ignore Visual Studio temporary files
 .vs/
-Debug/
-Release/
 *.user
 *.suo
-*.pdb
-*.obj
+*.ncb
 *.log
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.sdf
+*.opensdf
+
+# Track everything else
